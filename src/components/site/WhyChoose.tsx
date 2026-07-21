@@ -1,8 +1,5 @@
 import { motion } from "motion/react";
 import { SectionHeader } from "./Services";
-import {
-  Lightbulb, Cpu, Shield, LayersIcon as Layers, Users, Rocket, MessageSquare, LifeBuoy, Heart,
-} from "lucide-react";
 import * as Icons from "lucide-react";
 
 const FEATURES = [
